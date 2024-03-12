@@ -1,0 +1,2189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="al_exo_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>@string/al_exo_controls_playback_speed_normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </array>
+    <array name="al_exo_speed_multiplied_by_100">
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+        <item>200</item>
+    </array>
+    <array name="album_cover">
+        <item>@drawable/image_20</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_21</item>
+        <item>@drawable/image_16</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_17</item>
+        <item>@drawable/image_18</item>
+        <item>@drawable/image_10</item>
+        <item>@drawable/image_11</item>
+        <item>@drawable/image_12</item>
+        <item>@drawable/image_19</item>
+        <item>@drawable/image_14</item>
+        <item>@drawable/image_15</item>
+    </array>
+    <array name="album_name">
+        <item>The Mother</item>
+        <item>Not Advance</item>
+        <item>Coming Back</item>
+        <item>Suspicions</item>
+        <item>Desert Of Lost</item>
+        <item>Glances</item>
+        <item>Some Doubts</item>
+        <item>Morning</item>
+        <item>Love More Deeply</item>
+        <item>Quite</item>
+        <item>Backseat</item>
+        <item>Peace</item>
+        <item>Ambitions</item>
+        <item>Knocking At</item>
+        <item>Synchronisation</item>
+    </array>
+    <array name="all_images">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+        <item>@drawable/image_10</item>
+        <item>@drawable/image_11</item>
+        <item>@drawable/image_12</item>
+        <item>@drawable/image_13</item>
+        <item>@drawable/image_14</item>
+        <item>@drawable/image_15</item>
+        <item>@drawable/image_16</item>
+        <item>@drawable/image_17</item>
+        <item>@drawable/image_18</item>
+        <item>@drawable/image_19</item>
+        <item>@drawable/image_20</item>
+        <item>@drawable/image_21</item>
+        <item>@drawable/image_22</item>
+        <item>@drawable/image_23</item>
+        <item>@drawable/image_24</item>
+        <item>@drawable/image_25</item>
+        <item>@drawable/image_26</item>
+        <item>@drawable/image_27</item>
+        <item>@drawable/image_28</item>
+        <item>@drawable/image_29</item>
+        <item>@drawable/image_30</item>
+    </array>
+    <array name="app_chat_chat_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday</item>
+        <item>11/4/2015</item>
+        <item>11/4/2015</item>
+        <item>11/2/2015</item>
+        <item>10/20/2015</item>
+        <item>10/19/2015</item>
+        <item>10/12/2015</item>
+        <item>10/13/2015</item>
+    </array>
+    <array name="app_chat_chat_details_content">
+        <item>Suspendisse sit amet fermentum est</item>
+        <item>Suspendisse fermentum !</item>
+        <item>hendrerit libero et, ullamcorper ?</item>
+    </array>
+    <array name="app_chat_chat_details_date">
+        <item>09:45</item>
+        <item>09:55</item>
+        <item>12:10</item>
+    </array>
+    <array name="app_chat_chat_snippet">
+        <item>Hi, Good morning</item>
+        <item>There s a chance I can make it.</item>
+        <item>Wish I could come, but Im out of town this weekend</item>
+        <item>Do you have any recomendations?</item>
+        <item>She had probably only just gpt up and had not even begun to get dressed</item>
+        <item>Can we make some appointment</item>
+        <item>Ok. We ll be there</item>
+        <item>How about our work last week.</item>
+        <item>Whatever your age</item>
+        <item>Headlines and top stories from business</item>
+    </array>
+    <array name="app_chat_group_details_content">
+        <item>Sed eleifend facilisis ligula, non porttitor neque ultricies nec.</item>
+        <item>Suspendisse fermentum justo in nisi porta lacinia.</item>
+        <item>Sed convallis tempor massa</item>
+        <item>in eleifend lacus luctus eget. Integer enim erat, tempus vitae nisl a, imperdiet venenatis velit.</item>
+        <item>Suspendisse quis ullamcorper lectus.</item>
+        <item>Vivamus scelerisque</item>
+        <item>aliquam tellus, id vehicula mauris porttitor a. Vivamus sit amet nunc eget ligula faucibus volutpat.</item>
+        <item>Curabitur sollicitudin, velit quis scelerisque placerat</item>
+        <item>lectus purus bibendum nibh, eget lacinia sem risus vitae augue.</item>
+    </array>
+    <array name="app_chat_group_details_date">
+        <item>09:45</item>
+        <item>09:55</item>
+        <item>12:10</item>
+        <item>15:45</item>
+        <item>15:55</item>
+        <item>16:10</item>
+        <item>17:45</item>
+        <item>18:55</item>
+        <item>19:10</item>
+    </array>
+    <array name="app_chat_groups_date">
+        <item>10 Days ago</item>
+        <item>Today</item>
+        <item>Yesterday</item>
+    </array>
+    <array name="app_chat_groups_name">
+        <item>Collage</item>
+        <item>Hangout Friends</item>
+        <item>Cat Lovers</item>
+    </array>
+    <array name="app_chat_groups_photos">
+        <item>@drawable/app_chat_ic_group_collage</item>
+        <item>@drawable/app_chat_ic_group_hangout</item>
+        <item>@drawable/app_chat_ic_group_catlovers</item>
+    </array>
+    <array name="app_chat_people_names">
+        <item>Anderson Thomas</item>
+        <item>Adams Green</item>
+        <item>Laura Michelle</item>
+        <item>Betty L</item>
+        <item>Miller Wilson</item>
+        <item>Garcia Lewis</item>
+        <item>Roberts Turner</item>
+        <item>Mary Jackson</item>
+        <item>Sarah Scott</item>
+        <item>Kevin John</item>
+        <item>Elizabeth</item>
+        <item>Evans Collins</item>
+        <item>Roberts</item>
+        <item>Betty C</item>
+        <item>Susan Lee</item>
+    </array>
+    <array name="app_chat_people_photos">
+        <item>@drawable/app_chat_photo_male_1</item>
+        <item>@drawable/app_chat_photo_male_2</item>
+        <item>@drawable/app_chat_photo_female_1</item>
+        <item>@drawable/app_chat_photo_female_2</item>
+        <item>@drawable/app_chat_photo_male_3</item>
+        <item>@drawable/app_chat_photo_female_3</item>
+        <item>@drawable/app_chat_photo_male_4</item>
+        <item>@drawable/app_chat_photo_female_4</item>
+        <item>@drawable/app_chat_photo_female_5</item>
+        <item>@drawable/app_chat_photo_male_5</item>
+        <item>@drawable/app_chat_photo_female_6</item>
+        <item>@drawable/app_chat_photo_male_6</item>
+        <item>@drawable/app_chat_photo_male_7</item>
+        <item>@drawable/app_chat_photo_female_7</item>
+        <item>@drawable/app_chat_photo_female_8</item>
+    </array>
+    <array name="app_insta_feed_photos">
+        <item>@drawable/app_insta_feed_photo_1</item>
+        <item>@drawable/app_insta_feed_photo_2</item>
+        <item>@drawable/app_insta_feed_photo_3</item>
+        <item>@drawable/app_insta_feed_photo_4</item>
+        <item>@drawable/app_insta_feed_photo_5</item>
+        <item>@drawable/app_insta_feed_photo_6</item>
+        <item>@drawable/app_insta_feed_photo_7</item>
+        <item>@drawable/app_insta_feed_photo_8</item>
+        <item>@drawable/app_insta_feed_photo_9</item>
+        <item>@drawable/app_insta_feed_photo_10</item>
+        <item>@drawable/app_insta_feed_photo_11</item>
+        <item>@drawable/app_insta_feed_photo_12</item>
+        <item>@drawable/app_insta_feed_photo_13</item>
+        <item>@drawable/app_insta_feed_photo_14</item>
+        <item>@drawable/app_insta_feed_photo_15</item>
+        <item>@drawable/app_insta_feed_photo_16</item>
+        <item>@drawable/app_insta_feed_photo_17</item>
+        <item>@drawable/app_insta_feed_photo_18</item>
+        <item>@drawable/app_insta_feed_photo_19</item>
+        <item>@drawable/app_insta_feed_photo_20</item>
+        <item>@drawable/app_insta_feed_photo_21</item>
+        <item>@drawable/app_insta_feed_photo_22</item>
+        <item>@drawable/app_insta_feed_photo_23</item>
+        <item>@drawable/app_insta_feed_photo_24</item>
+        <item>@drawable/app_insta_feed_photo_25</item>
+    </array>
+    <array name="app_insta_friend_photo_album_name">
+        <item>Holiday</item>
+        <item>My Performance</item>
+        <item>Nature Trip</item>
+        <item>Photograph</item>
+        <item>Food</item>
+    </array>
+    <array name="app_insta_friend_photo_album_photo">
+        <item>@drawable/app_insta_feed_photo_4</item>
+        <item>@drawable/app_insta_feed_photo_2</item>
+        <item>@drawable/app_insta_feed_photo_6</item>
+        <item>@drawable/app_insta_feed_photo_7</item>
+        <item>@drawable/app_insta_feed_photo_5</item>
+    </array>
+    <array name="app_insta_message_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday, 23:10</item>
+        <item>11 Nov 2015, 16:43</item>
+        <item>11 Nov 2015, 20:11</item>
+        <item>10 Nov 2015, 12:25</item>
+        <item>08 Nov 2015, 01:45</item>
+        <item>04 Nov 2015, 22:30</item>
+        <item>04 Nov 2015, 05:22</item>
+        <item>01 Nov 2015, 04:59</item>
+    </array>
+    <array name="app_insta_message_details_content">
+        <item>Suspendisse sit amet fermentum est</item>
+        <item>Suspendisse fermentum !</item>
+        <item>hendrerit libero et, ullamcorper ?</item>
+    </array>
+    <array name="app_insta_message_details_date">
+        <item>09:45</item>
+        <item>09:55</item>
+        <item>12:10</item>
+    </array>
+    <array name="app_insta_message_snippet">
+        <item>Hi, Good morning</item>
+        <item>There s a chance I can make it.</item>
+        <item>Wish I could come, but Im out of town this weekend</item>
+        <item>Do you have any recomendation?</item>
+        <item>She had probably only just gpt up and had not even begun to get dressed</item>
+        <item>Can we make some appointment</item>
+        <item>Ok. We ll be there</item>
+        <item>How about our work last week.</item>
+        <item>Whatever your age</item>
+        <item>Headlines and top stories from business</item>
+    </array>
+    <array name="app_insta_notif_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>20:26</item>
+        <item>24:10</item>
+        <item>Yesterday, 23:10</item>
+        <item>Yesterday, 11:43</item>
+        <item>Yesterday, 15:22</item>
+        <item>Yesterday, 23:10</item>
+        <item>11 Nov 2015, 16:43</item>
+        <item>11 Nov 2015, 20:11</item>
+        <item>10 Nov 2015, 12:25</item>
+        <item>08 Nov 2015, 01:45</item>
+        <item>04 Nov 2015, 22:30</item>
+        <item>04 Nov 2015, 05:22</item>
+        <item>01 Nov 2015, 04:59</item>
+    </array>
+    <array name="app_insta_notif_text">
+        <item>like your photo</item>
+        <item>commented on your photo</item>
+        <item>mention you in a comment</item>
+        <item>share your photo</item>
+        <item>posted a photo in group &lt;b&gt;Collage&lt;/b&gt;</item>
+        <item>like your photo</item>
+        <item>like your post</item>
+        <item>commented on your post</item>
+        <item>like your photo</item>
+        <item>like your post</item>
+        <item>posted a photo in group &lt;b&gt;Hangout Friends&lt;/b&gt;</item>
+        <item>posted in group &lt;b&gt;Cat Lovers&lt;/b&gt;</item>
+        <item>like your photo</item>
+        <item>mention you in a comment</item>
+        <item>share your post</item>
+    </array>
+    <array name="app_insta_people_names">
+        <item>Anderson Thomas</item>
+        <item>Adams Green</item>
+        <item>Laura Michelle</item>
+        <item>Betty L</item>
+        <item>Miller Wilson</item>
+        <item>Garcia Lewis</item>
+        <item>Roberts Turner</item>
+        <item>Mary Jackson</item>
+        <item>Sarah Scott</item>
+        <item>Kevin John</item>
+        <item>Elizabeth</item>
+        <item>Evans Collins</item>
+        <item>Roberts</item>
+        <item>Betty C</item>
+        <item>Susan Lee</item>
+    </array>
+    <array name="app_insta_people_photos">
+        <item>@drawable/app_insta_photo_male_1</item>
+        <item>@drawable/app_insta_photo_male_2</item>
+        <item>@drawable/app_insta_photo_female_1</item>
+        <item>@drawable/app_insta_photo_female_2</item>
+        <item>@drawable/app_insta_photo_male_3</item>
+        <item>@drawable/app_insta_photo_female_3</item>
+        <item>@drawable/app_insta_photo_male_4</item>
+        <item>@drawable/app_insta_photo_female_4</item>
+        <item>@drawable/app_insta_photo_female_5</item>
+        <item>@drawable/app_insta_photo_male_5</item>
+        <item>@drawable/app_insta_photo_female_6</item>
+        <item>@drawable/app_insta_photo_male_6</item>
+        <item>@drawable/app_insta_photo_male_7</item>
+        <item>@drawable/app_insta_photo_female_7</item>
+        <item>@drawable/app_insta_photo_female_8</item>
+    </array>
+    <array name="app_insta_random_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday, 23:10</item>
+        <item>02 Nov 15, 22:30</item>
+        <item>10 Sep 15, 06:15</item>
+        <item>11 Sep 15, 07.00</item>
+        <item>07:23</item>
+        <item>Just Now</item>
+        <item>30 Oct 2015, 16:43</item>
+        <item>21 Aug 2015, 20:35</item>
+    </array>
+    <array name="app_mailbox_mail_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday</item>
+        <item>11/4/2015</item>
+        <item>11/4/2015</item>
+        <item>11/2/2015</item>
+        <item>10/20/2015</item>
+        <item>10/19/2015</item>
+        <item>10/12/2015</item>
+        <item>10/13/2015</item>
+        <item>06:40</item>
+        <item>30/20/2015</item>
+        <item>Yesterday</item>
+        <item>22/12/2015</item>
+        <item>21/13/2015</item>
+    </array>
+    <array name="app_mailbox_people_mail">
+        <item>a.thomas@yahoo-mail.com</item>
+        <item>adams_green12@gmail.com</item>
+        <item>laura.mc@hotmail.com</item>
+        <item>betty_22@mycorp.net</item>
+        <item>millerwilson@smail.co.uk</item>
+        <item>g.lewis@colled.com</item>
+        <item>roberts_turner@kill-mail.com</item>
+        <item>maryjackson@sam-mail.com</item>
+        <item>sarahscott@gmail.com</item>
+        <item>kevin-john@yahoo.com</item>
+        <item>e.lizabeth@hotmail.com</item>
+        <item>evans.collins@rocketmail.com</item>
+        <item>roberts_c2@mail.com</item>
+        <item>betty_c@snapmail.com</item>
+        <item>susanlee.ss@ulx.com</item>
+    </array>
+    <array name="app_mailbox_people_names">
+        <item>Anderson Thomas</item>
+        <item>Adams Green</item>
+        <item>Laura Michelle</item>
+        <item>Betty L</item>
+        <item>Miller Wilson</item>
+        <item>Garcia Lewis</item>
+        <item>Roberts Turner</item>
+        <item>Mary Jackson</item>
+        <item>Sarah Scott</item>
+        <item>Kevin John</item>
+        <item>Elizabeth</item>
+        <item>Evans Collins</item>
+        <item>Roberts</item>
+        <item>Betty C</item>
+        <item>Susan Lee</item>
+    </array>
+    <array name="app_mailbox_people_photos">
+        <item>@drawable/photo_male_1</item>
+        <item>@drawable/photo_male_2</item>
+        <item>@drawable/photo_female_1</item>
+        <item>@drawable/photo_female_2</item>
+        <item>@drawable/photo_male_3</item>
+        <item>@drawable/photo_female_3</item>
+        <item>@drawable/photo_male_4</item>
+        <item>@drawable/photo_female_4</item>
+        <item>@drawable/photo_female_5</item>
+        <item>@drawable/photo_male_5</item>
+        <item>@drawable/photo_female_6</item>
+        <item>@drawable/photo_male_6</item>
+        <item>@drawable/photo_male_7</item>
+        <item>@drawable/photo_female_7</item>
+        <item>@drawable/photo_female_8</item>
+    </array>
+    <array name="app_mailbox_subject_mail">
+        <item>Appointment Trip</item>
+        <item>Newsletter Tech</item>
+        <item>Blog Subcriber</item>
+        <item>Draf Information Center</item>
+        <item>Payment Confirmation</item>
+        <item>Job Vacancy</item>
+        <item>We ll be there</item>
+        <item>Our work last week.</item>
+        <item>Goverment Policy</item>
+        <item>Stories business</item>
+        <item>Ticket Promotion</item>
+        <item>Report Work</item>
+        <item>Ask Procedure</item>
+        <item>Request Item</item>
+        <item>Customer Info</item>
+    </array>
+    <array name="app_messenger_chat_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday</item>
+        <item>11/4/2015</item>
+        <item>11/4/2015</item>
+        <item>11/2/2015</item>
+        <item>10/20/2015</item>
+        <item>10/19/2015</item>
+        <item>10/12/2015</item>
+        <item>10/13/2015</item>
+    </array>
+    <array name="app_messenger_chat_details_content">
+        <item>Suspendisse sit amet fermentum est</item>
+        <item>Suspendisse fermentum !</item>
+        <item>hendrerit libero et, ullamcorper ?</item>
+    </array>
+    <array name="app_messenger_chat_details_date">
+        <item>09:45</item>
+        <item>09:55</item>
+        <item>12:10</item>
+    </array>
+    <array name="app_messenger_chat_snippet">
+        <item>Hi, Good morning</item>
+        <item>There s a chance I can make it.</item>
+        <item>Wish I could come, but Im out of town this weekend</item>
+        <item>Do you have any recomendations?</item>
+        <item>She had probably only just gpt up and had not even begun to get dressed</item>
+        <item>Can we make some appointment</item>
+        <item>Ok. We ll be there</item>
+        <item>How about our work last week.</item>
+        <item>Whatever your age</item>
+        <item>Headlines and top stories from business</item>
+    </array>
+    <array name="app_messenger_feed_photos">
+        <item>@drawable/app_messenger_feed_photo_1</item>
+        <item>@drawable/app_messenger_feed_photo_2</item>
+        <item>@drawable/app_messenger_feed_photo_3</item>
+        <item>@drawable/app_messenger_feed_photo_4</item>
+        <item>@drawable/app_messenger_feed_photo_5</item>
+        <item>@drawable/app_messenger_feed_photo_6</item>
+        <item>@drawable/app_messenger_feed_photo_7</item>
+    </array>
+    <array name="app_messenger_group_details_content">
+        <item>Sed eleifend facilisis ligula, non porttitor neque ultricies nec.</item>
+        <item>Suspendisse fermentum justo in nisi porta lacinia.</item>
+        <item>Sed convallis tempor massa</item>
+        <item>in eleifend lacus luctus eget. Integer enim erat, tempus vitae nisl a, imperdiet venenatis velit.</item>
+        <item>Suspendisse quis ullamcorper lectus.</item>
+        <item>Vivamus scelerisque</item>
+        <item>aliquam tellus, id vehicula mauris porttitor a. Vivamus sit amet nunc eget ligula faucibus volutpat.</item>
+        <item>Curabitur sollicitudin, velit quis scelerisque placerat</item>
+        <item>lectus purus bibendum nibh, eget lacinia sem risus vitae augue.</item>
+    </array>
+    <array name="app_messenger_group_details_date">
+        <item>09:45</item>
+        <item>09:55</item>
+        <item>12:10</item>
+        <item>15:45</item>
+        <item>15:55</item>
+        <item>16:10</item>
+        <item>17:45</item>
+        <item>18:55</item>
+        <item>19:10</item>
+    </array>
+    <array name="app_messenger_groups_date">
+        <item>10 Days ago</item>
+        <item>Today</item>
+        <item>Yesterday</item>
+    </array>
+    <array name="app_messenger_groups_name">
+        <item>Collage</item>
+        <item>Hangout Friends</item>
+        <item>Cat Lovers</item>
+    </array>
+    <array name="app_messenger_groups_photos">
+        <item>@drawable/app_messenger_ic_group_collage</item>
+        <item>@drawable/app_messenger_ic_group_hangout</item>
+        <item>@drawable/app_messenger_ic_group_catlovers</item>
+    </array>
+    <array name="app_messenger_people_names">
+        <item>Anderson Thomas</item>
+        <item>Adams Green</item>
+        <item>Laura Michelle</item>
+        <item>Betty L</item>
+        <item>Miller Wilson</item>
+        <item>Garcia Lewis</item>
+        <item>Roberts Turner</item>
+        <item>Mary Jackson</item>
+        <item>Sarah Scott</item>
+        <item>Kevin John</item>
+        <item>Elizabeth</item>
+        <item>Evans Collins</item>
+        <item>Roberts</item>
+        <item>Betty C</item>
+        <item>Susan Lee</item>
+    </array>
+    <array name="app_messenger_people_photos">
+        <item>@drawable/app_messenger_photo_male_1</item>
+        <item>@drawable/app_messenger_photo_male_2</item>
+        <item>@drawable/app_messenger_photo_female_1</item>
+        <item>@drawable/app_messenger_photo_female_2</item>
+        <item>@drawable/app_messenger_photo_male_3</item>
+        <item>@drawable/app_messenger_photo_female_3</item>
+        <item>@drawable/app_messenger_photo_male_4</item>
+        <item>@drawable/app_messenger_photo_female_4</item>
+        <item>@drawable/app_messenger_photo_female_5</item>
+        <item>@drawable/app_messenger_photo_male_5</item>
+        <item>@drawable/app_messenger_photo_female_6</item>
+        <item>@drawable/app_messenger_photo_male_6</item>
+        <item>@drawable/app_messenger_photo_male_7</item>
+        <item>@drawable/app_messenger_photo_female_7</item>
+        <item>@drawable/app_messenger_photo_female_8</item>
+    </array>
+    <array name="app_music_album_cover">
+        <item>@drawable/app_music_photo_album_1</item>
+        <item>@drawable/app_music_photo_album_2</item>
+        <item>@drawable/app_music_photo_album_3</item>
+        <item>@drawable/app_music_photo_album_4</item>
+        <item>@drawable/app_music_photo_album_5</item>
+        <item>@drawable/app_music_photo_album_6</item>
+        <item>@drawable/app_music_photo_album_7</item>
+        <item>@drawable/app_music_photo_album_8</item>
+        <item>@drawable/app_music_photo_album_9</item>
+        <item>@drawable/app_music_photo_album_10</item>
+    </array>
+    <array name="app_music_album_name">
+        <item>The Mother</item>
+        <item>Not Advance</item>
+        <item>Coming Back</item>
+        <item>Suspicions</item>
+        <item>Desert Of Lost</item>
+        <item>Glances</item>
+        <item>Some Doubts</item>
+        <item>Morning</item>
+        <item>Love More Deeply</item>
+        <item>Quite</item>
+    </array>
+    <array name="app_music_artist_brief">
+        <item>2 Albums • 10 Songs</item>
+        <item>1 Album • 1 Song</item>
+        <item>1 Album • 1 Song</item>
+        <item>1 Album • 2 Songs</item>
+        <item>2 Albums • 4 Songs</item>
+        <item>1 Album • 1 Song</item>
+    </array>
+    <array name="app_music_artist_name">
+        <item>Alain Lipietz</item>
+        <item>C. Wagner</item>
+        <item>Sacks Forcing</item>
+        <item>Ilona</item>
+        <item>Danny Higginbotham</item>
+        <item>Flooring Cramp</item>
+    </array>
+    <array name="app_music_artist_photo">
+        <item>@drawable/app_music_photo_artist_1</item>
+        <item>@drawable/app_music_photo_artist_2</item>
+        <item>@drawable/app_music_photo_artist_3</item>
+        <item>@drawable/app_music_photo_artist_4</item>
+        <item>@drawable/app_music_photo_artist_5</item>
+        <item>@drawable/app_music_photo_artist_5</item>
+    </array>
+    <array name="app_music_mdcolor_random">
+        <item>#c2185b</item>
+        <item>#7b1fa2</item>
+        <item>#c62828</item>
+        <item>#689f38</item>
+        <item>#558b2f</item>
+        <item>#006064</item>
+        <item>#0d47a1</item>
+        <item>#009688</item>
+        <item>#00695c</item>
+        <item>#d84315</item>
+        <item>#37474f</item>
+        <item>#e65100</item>
+    </array>
+    <array name="app_music_playlist_name">
+        <item>Accoustic</item>
+        <item>Relaxing</item>
+        <item>Instrumental</item>
+        <item>Song Cover</item>
+    </array>
+    <array name="app_music_song_name">
+        <item>All The Arguments</item>
+        <item>Proud of You</item>
+        <item>Morning Reasons</item>
+        <item>Drowsy Smart Mouth</item>
+        <item>Being Anything Else</item>
+        <item>Fist Full Of Mysteries</item>
+        <item>5 Dollar Town</item>
+        <item>Eternal Soul</item>
+        <item>Living is Going Down</item>
+        <item>Deadly Joy</item>
+        <item>Screaming Skill</item>
+        <item>Escape Of The Justice</item>
+        <item>Silent Fight</item>
+        <item>Distractions Have No Answers</item>
+        <item>Lead Sm</item>
+        <item>Golden Reasons</item>
+        <item>Let Them Go Their Way</item>
+        <item>To Forgive</item>
+        <item>Violent Dream</item>
+        <item>Screaming Patience</item>
+    </array>
+    <array name="app_news_channel_color">
+        <item>#FF7043</item>
+        <item>#039BE5</item>
+        <item>#FF9800</item>
+        <item>#EF5350</item>
+        <item>#009688</item>
+        <item>#CDDC39</item>
+    </array>
+    <array name="app_news_channel_icon">
+        <item>@drawable/app_news_ic_ch_politics</item>
+        <item>@drawable/app_news_ic_ch_entertainment</item>
+        <item>@drawable/app_news_ic_ch_science</item>
+        <item>@drawable/app_news_ic_ch_sport</item>
+        <item>@drawable/app_news_ic_ch_business</item>
+        <item>@drawable/app_news_ic_ch_technology</item>
+    </array>
+    <array name="app_news_channel_name">
+        <item>Politics</item>
+        <item>Entertainment</item>
+        <item>Science</item>
+        <item>Sport</item>
+        <item>Business</item>
+        <item>Technology</item>
+    </array>
+    <array name="app_news_general_date">
+        <item>05 Des 2015</item>
+        <item>22 Apr 2013</item>
+        <item>14 Sep 2015</item>
+        <item>11 Feb 2015</item>
+        <item>29 Aug 2014</item>
+        <item>10 Nov 2015</item>
+        <item>23 Jun 2015</item>
+        <item>20 Jul 2015</item>
+        <item>09 Mar 2015</item>
+        <item>01 Jan 2016</item>
+    </array>
+    <array name="app_news_home_category">
+        <item>LATEST</item>
+        <item>TRENDING</item>
+        <item>HIGHLIGHT</item>
+        <item>POPULAR</item>
+        <item>MOST VIEW</item>
+    </array>
+    <array name="app_news_news_img_b">
+        <item>@drawable/app_news_news_img_b1</item>
+        <item>@drawable/app_news_news_img_b2</item>
+        <item>@drawable/app_news_news_img_b3</item>
+        <item>@drawable/app_news_news_img_b4</item>
+        <item>@drawable/app_news_news_img_b5</item>
+    </array>
+    <array name="app_news_news_img_e">
+        <item>@drawable/app_news_news_img_e1</item>
+        <item>@drawable/app_news_news_img_e2</item>
+        <item>@drawable/app_news_news_img_e3</item>
+        <item>@drawable/app_news_news_img_e4</item>
+        <item>@drawable/app_news_news_img_e5</item>
+    </array>
+    <array name="app_news_news_img_p">
+        <item>@drawable/app_news_news_img_p1</item>
+        <item>@drawable/app_news_news_img_p2</item>
+        <item>@drawable/app_news_news_img_p3</item>
+        <item>@drawable/app_news_news_img_p4</item>
+        <item>@drawable/app_news_news_img_p5</item>
+    </array>
+    <array name="app_news_news_img_sc">
+        <item>@drawable/app_news_news_img_sc1</item>
+        <item>@drawable/app_news_news_img_sc2</item>
+        <item>@drawable/app_news_news_img_sc3</item>
+        <item>@drawable/app_news_news_img_sc4</item>
+        <item>@drawable/app_news_news_img_sc5</item>
+    </array>
+    <array name="app_news_news_img_sp">
+        <item>@drawable/app_news_news_img_sp1</item>
+        <item>@drawable/app_news_news_img_sp2</item>
+        <item>@drawable/app_news_news_img_sp3</item>
+        <item>@drawable/app_news_news_img_sp4</item>
+        <item>@drawable/app_news_news_img_sp5</item>
+    </array>
+    <array name="app_news_news_img_t">
+        <item>@drawable/app_news_news_img_t1</item>
+        <item>@drawable/app_news_news_img_t2</item>
+        <item>@drawable/app_news_news_img_t3</item>
+        <item>@drawable/app_news_news_img_t4</item>
+        <item>@drawable/app_news_news_img_t5</item>
+    </array>
+    <array name="app_news_news_title_b">
+        <item>Blackstone Group Nears Deal to Sell Hotel Portfolio to Anbang Insurance Group</item>
+        <item>Why Monsanto’s Biotech-Food Business Isn’t Growing in India</item>
+        <item>GM Gives Its Self-Driving Effort a Push</item>
+        <item>Beaten and discarded, Congo street children are strangers to mining boom</item>
+        <item>Minnesota mining towns suffer amid global steel slump</item>
+    </array>
+    <array name="app_news_news_title_e">
+        <item>Kevin Smith Ripped Apart The Ghostbusters Trailer</item>
+        <item>Does Lifetime&apos;s &apos;And Then There Were None&apos; Follow The Book? Agatha Christie&apos;s Novel Is Getting A Modern Treatment</item>
+        <item>JJ Abrams, Steven Spielberg back day-and-date movie service</item>
+        <item>&apos;The Little Prince&apos; film release mysteriously delayed</item>
+        <item>Lee Daniels and Empire Cast Address Off-Screen Drama and Tease What&apos;s Ahead</item>
+    </array>
+    <array name="app_news_news_title_p">
+        <item>The Latest: Antidepressants found in co-pilot&apos;s remains</item>
+        <item>Migration Hangs Over German Elections</item>
+        <item>Venezuelans hold rival marches for and against government</item>
+        <item>Israel demands world powers punish Iran for missile tests</item>
+        <item>Syria: President Assad&apos;s Ouster Is &apos;Red Line&apos;</item>
+    </array>
+    <array name="app_news_news_title_sc">
+        <item>Europe&apos;s Life-Hunting Mars Mission Ready for Launch</item>
+        <item>NASA releases eye-popping composite video of Tuesday’s total solar eclipse</item>
+        <item>Most Americans think robots will take jobs - but not theirs</item>
+        <item>LHC Detects Strange Anomaly In Particle Decay Beyond The Standard Model of Physics</item>
+        <item>Environmental Groups aren&apos;t Pleased With Current Grouse Conservation Plant</item>
+    </array>
+    <array name="app_news_news_title_sp">
+        <item>Bill Haas shoots 67 for 1-shot lead; Jordan Spieth trails by 6</item>
+        <item>Big Ten tournament title, potential No. 1 seed on line for Michigan State vs. Purdue</item>
+        <item>Roberto Martinez: FA Cup win &apos;perfect introduction&apos; for Farhad Moshiri</item>
+        <item>Diego Costa must take responsibility for his red card, insists Guus Hiddink</item>
+        <item>Atletico Madrid sensation Antoine Griezmann plays down links to Chelsea and Manchester United</item>
+    </array>
+    <array name="app_news_news_title_t">
+        <item>Tesla Model 3 – What Features Will Tesla Unveil In March?</item>
+        <item>Yahoo Livetext and Games face axe in &apos;streamlining&apos; plan</item>
+        <item>SnapGlass? HoloChat? Snapchat is secretly hiring wearable technology experts</item>
+        <item>Android N’s split-screen feature is a step forward for tablets like the Pixel C</item>
+        <item>Uses augmented reality to turn the world into a first-person shooter</item>
+    </array>
+    <array name="app_recipe_appetizers_duration">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>7 min</item>
+        <item>9 min</item>
+        <item>11 min</item>
+    </array>
+    <array name="app_recipe_appetizers_names">
+        <item>Superfood Tapenade</item>
+        <item>Garlic Bokchoy</item>
+        <item>Chicken Lettuce</item>
+        <item>Chicken Garlic Bites</item>
+        <item>Silverdollar Socca</item>
+    </array>
+    <array name="app_recipe_category_icon">
+        <item>@drawable/app_recipe_ic_appetizer</item>
+        <item>@drawable/app_recipe_ic_main_dish</item>
+        <item>@drawable/app_recipe_ic_salad</item>
+        <item>@drawable/app_recipe_ic_drink</item>
+        <item>@drawable/app_recipe_ic_side_dish</item>
+        <item>@drawable/app_recipe_ic_dessert</item>
+    </array>
+    <array name="app_recipe_category_names">
+        <item>Appetizers</item>
+        <item>Main Dish</item>
+        <item>Salads</item>
+        <item>Drinks</item>
+        <item>Side Dish</item>
+        <item>Dessert</item>
+    </array>
+    <array name="app_recipe_category_photos">
+        <item>@drawable/app_recipe_food_appetizer</item>
+        <item>@drawable/app_recipe_food_main_dish</item>
+        <item>@drawable/app_recipe_food_salads</item>
+        <item>@drawable/app_recipe_food_drink</item>
+        <item>@drawable/app_recipe_food_side_dish</item>
+        <item>@drawable/app_recipe_food_dessert</item>
+    </array>
+    <array name="app_recipe_category_recipes">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday</item>
+        <item>11/4/2015</item>
+        <item>11/4/2015</item>
+        <item>11/2/2015</item>
+    </array>
+    <array name="app_recipe_dessert_duration">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>7 min</item>
+        <item>9 min</item>
+        <item>11 min</item>
+    </array>
+    <array name="app_recipe_dessert_names">
+        <item>Roast Bread</item>
+        <item>Reeses Squares</item>
+        <item>Fudge Crinkles</item>
+        <item>Burrito Casserole</item>
+        <item>Zuppa Toscana</item>
+    </array>
+    <array name="app_recipe_drinks_duration">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>7 min</item>
+        <item>9 min</item>
+        <item>11 min</item>
+        <item>11 min</item>
+    </array>
+    <array name="app_recipe_drinks_names">
+        <item>Sangria</item>
+        <item>Pina Colada</item>
+        <item>Mai Tai</item>
+        <item>Pisco Sour</item>
+        <item>Gimlet</item>
+        <item>Irish Coffe</item>
+    </array>
+    <array name="app_recipe_ingredients">
+        <item>1 slice of bread, shredded</item>
+        <item>1 medium garlic clove, minced</item>
+        <item>1 Tbsp flour</item>
+        <item>1/2 teaspoon sweet paprika</item>
+        <item>3 Tbsp minced green bell pepper</item>
+        <item>2 teaspoons lemon juice</item>
+        <item>1/2 teaspoon salt</item>
+    </array>
+    <array name="app_recipe_main_dish_duration">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>7 min</item>
+        <item>9 min</item>
+        <item>11 min</item>
+    </array>
+    <array name="app_recipe_main_dish_names">
+        <item>Beef Mechado</item>
+        <item>Beef Steak</item>
+        <item>Kappa Maki</item>
+        <item>Nigiri</item>
+        <item>Spicy Barbecue</item>
+    </array>
+    <array name="app_recipe_photos_appetizers">
+        <item>@drawable/app_recipe_food_appetizer_1</item>
+        <item>@drawable/app_recipe_food_appetizer_2</item>
+        <item>@drawable/app_recipe_food_appetizer_3</item>
+        <item>@drawable/app_recipe_food_appetizer_4</item>
+        <item>@drawable/app_recipe_food_appetizer_5</item>
+    </array>
+    <array name="app_recipe_photos_dessert">
+        <item>@drawable/app_recipe_food_dessert_1</item>
+        <item>@drawable/app_recipe_food_dessert_2</item>
+        <item>@drawable/app_recipe_food_dessert_3</item>
+        <item>@drawable/app_recipe_food_dessert_4</item>
+        <item>@drawable/app_recipe_food_dessert_5</item>
+    </array>
+    <array name="app_recipe_photos_drinks">
+        <item>@drawable/app_recipe_food_drink_1</item>
+        <item>@drawable/app_recipe_food_drink_2</item>
+        <item>@drawable/app_recipe_food_drink_3</item>
+        <item>@drawable/app_recipe_food_drink_4</item>
+        <item>@drawable/app_recipe_food_drink_5</item>
+        <item>@drawable/app_recipe_food_drink_6</item>
+    </array>
+    <array name="app_recipe_photos_main_dish">
+        <item>@drawable/app_recipe_food_main_dish_1</item>
+        <item>@drawable/app_recipe_food_main_dish_2</item>
+        <item>@drawable/app_recipe_food_main_dish_3</item>
+        <item>@drawable/app_recipe_food_main_dish_4</item>
+        <item>@drawable/app_recipe_food_main_dish_5</item>
+    </array>
+    <array name="app_recipe_photos_salads">
+        <item>@drawable/app_recipe_food_salads_1</item>
+        <item>@drawable/app_recipe_food_salads_2</item>
+        <item>@drawable/app_recipe_food_salads_3</item>
+        <item>@drawable/app_recipe_food_salads_4</item>
+        <item>@drawable/app_recipe_food_salads_5</item>
+        <item>@drawable/app_recipe_food_salads_6</item>
+    </array>
+    <array name="app_recipe_photos_side_dish">
+        <item>@drawable/app_recipe_food_side_dish_1</item>
+        <item>@drawable/app_recipe_food_side_dish_2</item>
+        <item>@drawable/app_recipe_food_side_dish_3</item>
+        <item>@drawable/app_recipe_food_side_dish_4</item>
+        <item>@drawable/app_recipe_food_side_dish_5</item>
+    </array>
+    <array name="app_recipe_salads_duration">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>7 min</item>
+        <item>9 min</item>
+        <item>11 min</item>
+        <item>11 min</item>
+    </array>
+    <array name="app_recipe_salads_names">
+        <item>Famous Coleslaw</item>
+        <item>Potato Chipotle</item>
+        <item>Pasta Salad</item>
+        <item>Ultimate Greek</item>
+        <item>Feta and Walnut</item>
+        <item>Tomato-Basil Salad</item>
+    </array>
+    <array name="app_recipe_side_dish_duration">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>7 min</item>
+        <item>9 min</item>
+        <item>11 min</item>
+    </array>
+    <array name="app_recipe_side_dish_names">
+        <item>Rice Roll</item>
+        <item>Beef Burger Onion</item>
+        <item>Beef Lazone</item>
+        <item>Potato Pork Chop</item>
+        <item>Cinnamon Flop</item>
+    </array>
+    <array name="app_shop_item_acc_female">
+        <item>@drawable/app_shop_a_f_1</item>
+        <item>@drawable/app_shop_a_f_2</item>
+        <item>@drawable/app_shop_a_f_3</item>
+        <item>@drawable/app_shop_a_f_4</item>
+        <item>@drawable/app_shop_a_f_5</item>
+        <item>@drawable/app_shop_a_f_6</item>
+        <item>@drawable/app_shop_a_f_7</item>
+        <item>@drawable/app_shop_a_f_8</item>
+    </array>
+    <array name="app_shop_item_acc_male">
+        <item>@drawable/app_shop_a_m_1</item>
+        <item>@drawable/app_shop_a_m_2</item>
+        <item>@drawable/app_shop_a_m_3</item>
+        <item>@drawable/app_shop_a_m_4</item>
+        <item>@drawable/app_shop_a_m_5</item>
+    </array>
+    <array name="app_shop_item_bags_female">
+        <item>@drawable/app_shop_b_f_1</item>
+        <item>@drawable/app_shop_b_f_2</item>
+        <item>@drawable/app_shop_b_f_3</item>
+        <item>@drawable/app_shop_b_f_4</item>
+        <item>@drawable/app_shop_b_f_5</item>
+        <item>@drawable/app_shop_b_f_6</item>
+    </array>
+    <array name="app_shop_item_bags_male">
+        <item>@drawable/app_shop_b_m_1</item>
+        <item>@drawable/app_shop_b_m_2</item>
+        <item>@drawable/app_shop_b_m_3</item>
+        <item>@drawable/app_shop_b_m_4</item>
+        <item>@drawable/app_shop_b_m_5</item>
+        <item>@drawable/app_shop_b_m_6</item>
+    </array>
+    <array name="app_shop_item_clothing_female">
+        <item>@drawable/app_shop_c_f_1</item>
+        <item>@drawable/app_shop_c_f_2</item>
+        <item>@drawable/app_shop_c_f_3</item>
+        <item>@drawable/app_shop_c_f_4</item>
+        <item>@drawable/app_shop_c_f_5</item>
+        <item>@drawable/app_shop_c_f_6</item>
+        <item>@drawable/app_shop_c_f_7</item>
+        <item>@drawable/app_shop_c_f_8</item>
+        <item>@drawable/app_shop_c_f_9</item>
+    </array>
+    <array name="app_shop_item_clothing_male">
+        <item>@drawable/app_shop_c_m_1</item>
+        <item>@drawable/app_shop_c_m_2</item>
+        <item>@drawable/app_shop_c_m_3</item>
+        <item>@drawable/app_shop_c_m_4</item>
+        <item>@drawable/app_shop_c_m_5</item>
+        <item>@drawable/app_shop_c_m_6</item>
+        <item>@drawable/app_shop_c_m_7</item>
+        <item>@drawable/app_shop_c_m_8</item>
+    </array>
+    <array name="app_shop_item_new">
+        <item>@drawable/app_shop_c_f_3</item>
+        <item>@drawable/app_shop_c_m_7</item>
+        <item>@drawable/app_shop_s_m_5</item>
+        <item>@drawable/app_shop_w_f_2</item>
+        <item>@drawable/app_shop_b_m_6</item>
+        <item>@drawable/app_shop_a_f_3</item>
+    </array>
+    <array name="app_shop_item_shoes_female">
+        <item>@drawable/app_shop_s_f_1</item>
+        <item>@drawable/app_shop_s_f_2</item>
+        <item>@drawable/app_shop_s_f_3</item>
+        <item>@drawable/app_shop_s_f_4</item>
+    </array>
+    <array name="app_shop_item_shoes_male">
+        <item>@drawable/app_shop_s_m_1</item>
+        <item>@drawable/app_shop_s_m_2</item>
+        <item>@drawable/app_shop_s_m_3</item>
+        <item>@drawable/app_shop_s_m_4</item>
+        <item>@drawable/app_shop_s_m_5</item>
+        <item>@drawable/app_shop_s_m_6</item>
+        <item>@drawable/app_shop_s_m_7</item>
+    </array>
+    <array name="app_shop_item_watches_female">
+        <item>@drawable/app_shop_w_f_1</item>
+        <item>@drawable/app_shop_w_f_2</item>
+        <item>@drawable/app_shop_w_f_3</item>
+        <item>@drawable/app_shop_w_f_4</item>
+    </array>
+    <array name="app_shop_item_watches_male">
+        <item>@drawable/app_shop_w_m_1</item>
+        <item>@drawable/app_shop_w_m_2</item>
+        <item>@drawable/app_shop_w_m_3</item>
+        <item>@drawable/app_shop_w_m_4</item>
+        <item>@drawable/app_shop_w_m_5</item>
+        <item>@drawable/app_shop_w_m_6</item>
+        <item>@drawable/app_shop_w_m_7</item>
+    </array>
+    <array name="app_shop_prc_acc_female">
+        <item>680</item>
+        <item>810</item>
+        <item>490</item>
+        <item>226</item>
+        <item>127</item>
+        <item>400</item>
+        <item>236</item>
+        <item>547</item>
+    </array>
+    <array name="app_shop_prc_acc_male">
+        <item>14</item>
+        <item>12</item>
+        <item>32</item>
+        <item>22</item>
+        <item>13</item>
+    </array>
+    <array name="app_shop_prc_bags_female">
+        <item>140</item>
+        <item>93</item>
+        <item>100</item>
+        <item>121</item>
+        <item>69</item>
+        <item>118</item>
+    </array>
+    <array name="app_shop_prc_bags_male">
+        <item>113</item>
+        <item>45</item>
+        <item>78</item>
+        <item>99</item>
+        <item>73</item>
+        <item>89</item>
+    </array>
+    <array name="app_shop_prc_clothing_female">
+        <item>40</item>
+        <item>27</item>
+        <item>63</item>
+        <item>100</item>
+        <item>21</item>
+        <item>112</item>
+        <item>28</item>
+        <item>99</item>
+        <item>33</item>
+    </array>
+    <array name="app_shop_prc_clothing_male">
+        <item>70</item>
+        <item>80</item>
+        <item>25</item>
+        <item>57</item>
+        <item>76</item>
+        <item>88</item>
+        <item>59</item>
+        <item>35</item>
+    </array>
+    <array name="app_shop_prc_new">
+        <item>63</item>
+        <item>88</item>
+        <item>100</item>
+        <item>263</item>
+        <item>89</item>
+        <item>490</item>
+    </array>
+    <array name="app_shop_prc_shoes_female">
+        <item>122</item>
+        <item>98</item>
+        <item>87</item>
+        <item>110</item>
+    </array>
+    <array name="app_shop_prc_shoes_male">
+        <item>140</item>
+        <item>123</item>
+        <item>117</item>
+        <item>131</item>
+        <item>100</item>
+        <item>79</item>
+        <item>71</item>
+    </array>
+    <array name="app_shop_prc_watches_female">
+        <item>340</item>
+        <item>263</item>
+        <item>420</item>
+        <item>554</item>
+    </array>
+    <array name="app_shop_prc_watches_male">
+        <item>640</item>
+        <item>673</item>
+        <item>300</item>
+        <item>121</item>
+        <item>436</item>
+        <item>228</item>
+        <item>454</item>
+    </array>
+    <array name="app_shop_str_acc_female">
+        <item>Silver Tone Metal</item>
+        <item>Charm Bracelet</item>
+        <item>Women Sterling</item>
+        <item>Cross Pendant Necklace</item>
+        <item>Dogeared Reminder</item>
+        <item>Sterling Silver Round</item>
+        <item>Diamond in Heart</item>
+        <item>Diamond Princess Hoop</item>
+    </array>
+    <array name="app_shop_str_acc_male">
+        <item>Premium Original Flexfit</item>
+        <item>Twill Fitted Hat</item>
+        <item>Goson Vintage Inspired</item>
+        <item>Rimmed Clear Lens</item>
+        <item>Classic Half Frame</item>
+    </array>
+    <array name="app_shop_str_bags_female">
+        <item>Fashion Road Modern</item>
+        <item>Leisure Shoulder Bags</item>
+        <item>Cross Body Zip</item>
+        <item>Satchel Handbags</item>
+        <item>Kenneth Cole Reaction</item>
+        <item>Ibagbar Durable</item>
+    </array>
+    <array name="app_shop_str_bags_male">
+        <item>Team Speed Duffel</item>
+        <item>Luggage Bag</item>
+        <item>Bag Messenger</item>
+        <item>Bag Satchel Bag</item>
+        <item>Vintage Multifunction Canvas</item>
+        <item>Durable Shoulder</item>
+    </array>
+    <array name="app_shop_str_clothing_female">
+        <item>Cashmere Essentials</item>
+        <item>Derek Heart Juniors</item>
+        <item>Magaschoni Women</item>
+        <item>Colorblock Crewneck Sweater</item>
+        <item>Detail Cardigan Sweater</item>
+        <item>Cashmere Textured</item>
+        <item>Sofia Cashmere Women</item>
+        <item>Shawl Collar Cardigan</item>
+        <item>Rachel Pally Women</item>
+    </array>
+    <array name="app_shop_str_clothing_male">
+        <item>Pendleton Men</item>
+        <item>Shetland Crew-Neck</item>
+        <item>Perry Ellis Men</item>
+        <item>Diamond-Stitch Quarter</item>
+        <item>Perry Ellis</item>
+        <item>Men Big-Tall Marled</item>
+        <item>Shawl Cardigan</item>
+        <item>Victorinox Signature</item>
+    </array>
+    <array name="app_shop_str_new">
+        <item>Magaschoni Women</item>
+        <item>Shawl Cardigan</item>
+        <item>Asics Gel-Quantum</item>
+        <item>Kate Spade</item>
+        <item>Durable Shoulder</item>
+        <item>Women Sterling</item>
+    </array>
+    <array name="app_shop_str_shoes_female">
+        <item>Kenneth Cole</item>
+        <item>Steve Madden Jombre</item>
+        <item>Sparkle Flat</item>
+        <item>Nine West Figi</item>
+    </array>
+    <array name="app_shop_str_shoes_male">
+        <item>Minnetonka Fleece</item>
+        <item>Performance Men Duramo</item>
+        <item>New Balance Rush</item>
+        <item>Altra Impulse Running</item>
+        <item>Asics Gel-Quantum</item>
+        <item>Isotoner Men Slipper</item>
+        <item>Vagabond Chill</item>
+    </array>
+    <array name="app_shop_str_watches_female">
+        <item>New York Women</item>
+        <item>Kate Spade</item>
+        <item>Timex Women Reader</item>
+        <item>Black Leather Strap</item>
+    </array>
+    <array name="app_shop_str_watches_male">
+        <item>Stuhrling Original Men</item>
+        <item>Timex Men Easy</item>
+        <item>Steel Bracelet Watch</item>
+        <item>Silver-Tone Expansion</item>
+        <item>Quartz Black</item>
+        <item>Michael Kors Accelerator</item>
+        <item>Gunmetal Watch</item>
+    </array>
+    <array name="app_social_feed_photos">
+        <item>@drawable/app_social_feed_photo_1</item>
+        <item>@drawable/app_social_feed_photo_2</item>
+        <item>@drawable/app_social_feed_photo_3</item>
+        <item>@drawable/app_social_feed_photo_4</item>
+        <item>@drawable/app_social_feed_photo_5</item>
+        <item>@drawable/app_social_feed_photo_6</item>
+        <item>@drawable/app_social_feed_photo_7</item>
+    </array>
+    <array name="app_social_friend_photo_album_name">
+        <item>Holiday</item>
+        <item>My Performance</item>
+        <item>Nature Trip</item>
+        <item>Photograph</item>
+        <item>Food</item>
+    </array>
+    <array name="app_social_friend_photo_album_photo">
+        <item>@drawable/app_social_feed_photo_4</item>
+        <item>@drawable/app_social_feed_photo_2</item>
+        <item>@drawable/app_social_feed_photo_6</item>
+        <item>@drawable/app_social_feed_photo_7</item>
+        <item>@drawable/app_social_feed_photo_5</item>
+    </array>
+    <array name="app_social_message_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday, 23:10</item>
+        <item>11 Nov 2015, 16:43</item>
+        <item>11 Nov 2015, 20:11</item>
+        <item>10 Nov 2015, 12:25</item>
+        <item>08 Nov 2015, 01:45</item>
+        <item>04 Nov 2015, 22:30</item>
+        <item>04 Nov 2015, 05:22</item>
+        <item>01 Nov 2015, 04:59</item>
+    </array>
+    <array name="app_social_message_details_content">
+        <item>Suspendisse sit amet fermentum est</item>
+        <item>Suspendisse fermentum !</item>
+        <item>hendrerit libero et, ullamcorper ?</item>
+    </array>
+    <array name="app_social_message_details_date">
+        <item>09:45</item>
+        <item>09:55</item>
+        <item>12:10</item>
+    </array>
+    <array name="app_social_message_snippet">
+        <item>Hi, Good morning</item>
+        <item>There s a chance I can make it.</item>
+        <item>Wish I could come, but Im out of town this weekend</item>
+        <item>Do you have any recomendation?</item>
+        <item>She had probably only just gpt up and had not even begun to get dressed</item>
+        <item>Can we make some appointment</item>
+        <item>Ok. We ll be there</item>
+        <item>How about our work last week.</item>
+        <item>Whatever your age</item>
+        <item>Headlines and top stories from business</item>
+    </array>
+    <array name="app_social_notif_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>20:26</item>
+        <item>24:10</item>
+        <item>Yesterday, 23:10</item>
+        <item>Yesterday, 11:43</item>
+        <item>Yesterday, 15:22</item>
+        <item>Yesterday, 23:10</item>
+        <item>11 Nov 2015, 16:43</item>
+        <item>11 Nov 2015, 20:11</item>
+        <item>10 Nov 2015, 12:25</item>
+        <item>08 Nov 2015, 01:45</item>
+        <item>04 Nov 2015, 22:30</item>
+        <item>04 Nov 2015, 05:22</item>
+        <item>01 Nov 2015, 04:59</item>
+    </array>
+    <array name="app_social_notif_text">
+        <item>like your photo</item>
+        <item>commented on your photo</item>
+        <item>mention you in a comment</item>
+        <item>share your photo</item>
+        <item>posted a photo in group &lt;b&gt;Collage&lt;/b&gt;</item>
+        <item>like your photo</item>
+        <item>like your post</item>
+        <item>commented on your post</item>
+        <item>like your photo</item>
+        <item>like your post</item>
+        <item>posted a photo in group &lt;b&gt;Hangout Friends&lt;/b&gt;</item>
+        <item>posted in group &lt;b&gt;Cat Lovers&lt;/b&gt;</item>
+        <item>like your photo</item>
+        <item>mention you in a comment</item>
+        <item>share your post</item>
+    </array>
+    <array name="app_social_people_names">
+        <item>Anderson Thomas</item>
+        <item>Adams Green</item>
+        <item>Laura Michelle</item>
+        <item>Betty L</item>
+        <item>Miller Wilson</item>
+        <item>Garcia Lewis</item>
+        <item>Roberts Turner</item>
+        <item>Mary Jackson</item>
+        <item>Sarah Scott</item>
+        <item>Kevin John</item>
+        <item>Elizabeth</item>
+        <item>Evans Collins</item>
+        <item>Roberts</item>
+        <item>Betty C</item>
+        <item>Susan Lee</item>
+    </array>
+    <array name="app_social_people_photos">
+        <item>@drawable/app_social_photo_male_1</item>
+        <item>@drawable/app_social_photo_male_2</item>
+        <item>@drawable/app_social_photo_female_1</item>
+        <item>@drawable/app_social_photo_female_2</item>
+        <item>@drawable/app_social_photo_male_3</item>
+        <item>@drawable/app_social_photo_female_3</item>
+        <item>@drawable/app_social_photo_male_4</item>
+        <item>@drawable/app_social_photo_female_4</item>
+        <item>@drawable/app_social_photo_female_5</item>
+        <item>@drawable/app_social_photo_male_5</item>
+        <item>@drawable/app_social_photo_female_6</item>
+        <item>@drawable/app_social_photo_male_6</item>
+        <item>@drawable/app_social_photo_male_7</item>
+        <item>@drawable/app_social_photo_female_7</item>
+        <item>@drawable/app_social_photo_female_8</item>
+    </array>
+    <array name="app_social_random_date">
+        <item>09:45</item>
+        <item>16:55</item>
+        <item>Yesterday, 23:10</item>
+        <item>02 Nov 15, 22:30</item>
+        <item>10 Sep 15, 06:15</item>
+        <item>11 Sep 15, 07.00</item>
+        <item>07:23</item>
+        <item>Just Now</item>
+        <item>30 Oct 2015, 16:43</item>
+        <item>21 Aug 2015, 20:35</item>
+    </array>
+    <array name="app_travel_airline_flight_code">
+        <item>JT-625</item>
+        <item>QG-328</item>
+        <item>ID-253</item>
+        <item>QZ-955</item>
+        <item>NA-277</item>
+        <item>GA-831</item>
+        <item>SJ-084</item>
+    </array>
+    <array name="app_travel_airline_logo">
+        <item>@drawable/app_travel_logo_airline_lion</item>
+        <item>@drawable/app_travel_logo_airline_citilink</item>
+        <item>@drawable/app_travel_logo_airline_batik</item>
+        <item>@drawable/app_travel_logo_airline_airasia</item>
+        <item>@drawable/app_travel_logo_airline_nam</item>
+        <item>@drawable/app_travel_logo_airline_garuda</item>
+        <item>@drawable/app_travel_logo_airline_sriw</item>
+    </array>
+    <array name="app_travel_airline_name">
+        <item>Lion Air</item>
+        <item>Citilink</item>
+        <item>Batik</item>
+        <item>AirAsia</item>
+        <item>NAM</item>
+        <item>Garuda</item>
+        <item>Sriwijaya</item>
+    </array>
+    <array name="app_travel_airport_city">
+        <item>Ambon</item>
+        <item>Balikpapan</item>
+        <item>Banda Aceh</item>
+        <item>Bandar Lampung</item>
+        <item>Bandung</item>
+        <item>Banjarmasin</item>
+        <item>Batam</item>
+        <item>Bau-Bau, Buton</item>
+        <item>Biak</item>
+        <item>Bali, Denpasar</item>
+        <item>Jakarta</item>
+        <item>Jakarta</item>
+        <item>Jayapura</item>
+        <item>Kupang</item>
+        <item>Lombok</item>
+        <item>Manado</item>
+        <item>Labuan Bajo</item>
+        <item>Makassar</item>
+        <item>Medan</item>
+        <item>Medan</item>
+        <item>Merauke</item>
+        <item>Padang</item>
+        <item>Palembang</item>
+        <item>Pekanbaru</item>
+        <item>Pontianak</item>
+        <item>Semarang</item>
+        <item>Solo</item>
+        <item>Surabaya</item>
+        <item>Tanjung Pinang</item>
+        <item>Tarakan</item>
+        <item>Timika</item>
+        <item>Yogyakarta</item>
+    </array>
+    <array name="app_travel_airport_code">
+        <item>AMQ</item>
+        <item>BPN</item>
+        <item>BTJ</item>
+        <item>TKG</item>
+        <item>BDO</item>
+        <item>BDJ</item>
+        <item>BTH</item>
+        <item>BUW</item>
+        <item>BIK</item>
+        <item>DPS</item>
+        <item>CGK</item>
+        <item>HLP</item>
+        <item>DJJ</item>
+        <item>KOE</item>
+        <item>LOP</item>
+        <item>MDC</item>
+        <item>LBJ</item>
+        <item>UPG</item>
+        <item>KNO</item>
+        <item>MES</item>
+        <item>TIM</item>
+        <item>PDG</item>
+        <item>PLM</item>
+        <item>PKU</item>
+        <item>PNK</item>
+        <item>SRG</item>
+        <item>SOC</item>
+        <item>SUB</item>
+        <item>TNJ</item>
+        <item>TRK</item>
+        <item>MKQ</item>
+        <item>JOG</item>
+    </array>
+    <array name="app_travel_airport_name">
+        <item>Pattimura</item>
+        <item>Sepinggan</item>
+        <item>Sultan Iskandarmuda</item>
+        <item>Radin Inten II</item>
+        <item>Husein Sastranegara</item>
+        <item>Syamsuddin Noor</item>
+        <item>Hang Nadim</item>
+        <item>Betoambari</item>
+        <item>Frans Kaisiepo</item>
+        <item>Ngurah Rai</item>
+        <item>Soekarno-Hatta</item>
+        <item>Halim Perdanakusuma</item>
+        <item>Sentani</item>
+        <item>El Tari</item>
+        <item>Lombok Praya</item>
+        <item>Sam Ratulangi</item>
+        <item>Komodo</item>
+        <item>Sultan Hasanuddin</item>
+        <item>Kualanamu</item>
+        <item>Medan</item>
+        <item>Mozes Kilangin</item>
+        <item>Minangkabau</item>
+        <item>Sultan Mahmud Badaruddin II</item>
+        <item>Sultan Syarif Kasim II</item>
+        <item>Supadio</item>
+        <item>Achmad Yani</item>
+        <item>Adisumarmo</item>
+        <item>Juanda</item>
+        <item>Raja Haji Fisabilillah</item>
+        <item>Juwata</item>
+        <item>Mopah</item>
+        <item>Adi Sutjipto</item>
+    </array>
+    <array name="app_travel_duration">
+        <item>1h 10m</item>
+        <item>1h 10m</item>
+        <item>1h 10m</item>
+        <item>1h 10m</item>
+        <item>1h 15m</item>
+        <item>1h 20m</item>
+        <item>1h 15m</item>
+        <item>1h 15m</item>
+        <item>1h 20m</item>
+        <item>1h 20m</item>
+    </array>
+    <array name="app_travel_hotel_city">
+        <item>Ambon</item>
+        <item>Balikpapan</item>
+        <item>Banda Aceh</item>
+        <item>Bandar Lampung</item>
+        <item>Bandung</item>
+        <item>Banjarmasin</item>
+        <item>Batam</item>
+        <item>Bau-Bau, Buton</item>
+        <item>Biak</item>
+        <item>Bali, Denpasar</item>
+        <item>Jakarta</item>
+        <item>Jayapura</item>
+        <item>Kupang</item>
+        <item>Lombok</item>
+        <item>Manado</item>
+        <item>Labuan Bajo</item>
+        <item>Makassar</item>
+        <item>Medan</item>
+        <item>Medan</item>
+        <item>Merauke</item>
+        <item>Padang</item>
+        <item>Palembang</item>
+        <item>Pekanbaru</item>
+        <item>Pontianak</item>
+        <item>Semarang</item>
+        <item>Solo</item>
+        <item>Surabaya</item>
+        <item>Tanjung Pinang</item>
+        <item>Tarakan</item>
+        <item>Timika</item>
+        <item>Yogyakarta</item>
+    </array>
+    <array name="app_travel_hotel_image">
+        <item>@drawable/app_travel_image_hotel_1</item>
+        <item>@drawable/app_travel_image_hotel_2</item>
+        <item>@drawable/app_travel_image_hotel_3</item>
+        <item>@drawable/app_travel_image_hotel_4</item>
+        <item>@drawable/app_travel_image_hotel_5</item>
+        <item>@drawable/app_travel_image_hotel_6</item>
+        <item>@drawable/app_travel_image_hotel_7</item>
+        <item>@drawable/app_travel_image_hotel_8</item>
+        <item>@drawable/app_travel_image_hotel_9</item>
+        <item>@drawable/app_travel_image_hotel_10</item>
+    </array>
+    <array name="app_travel_hotel_location">
+        <item>Depok, Yogyakarta</item>
+        <item>Jetis, Yogyakarta</item>
+        <item>Depok, Yogyakarta</item>
+        <item>Depok, Yogyakarta</item>
+        <item>Gondokusuman, Yogyakarta</item>
+        <item>Malioboro Street, Yogyakarta</item>
+        <item>Mlati, Yogyakarta</item>
+        <item>Ngaglik, Yogyakarta</item>
+        <item>Mantrijeron, Yogyakarta</item>
+        <item>Depok, Yogyakarta</item>
+    </array>
+    <array name="app_travel_hotel_name">
+        <item>Royal Ambarrukmo Yogyakarta</item>
+        <item>Hotel Tentrem Yogyakarta</item>
+        <item>Horison Grand Keisha Yogyakarta</item>
+        <item>Hotel New Saphir Yogyakarta</item>
+        <item>Horison Yogyakarta</item>
+        <item>Grand Inna Malioboro</item>
+        <item>Grand Serela Yogyakarta</item>
+        <item>Indoluxe Hotel Jogjakarta</item>
+        <item>Horison Lynn Yogyakarta</item>
+        <item>Eastparc Hotel Yogyakarta</item>
+    </array>
+    <array name="app_travel_hotel_price">
+        <item>Rp 949.556</item>
+        <item>Rp 1.512.500</item>
+        <item>Rp 717.500</item>
+        <item>Rp 713.400</item>
+        <item>Rp 593.750</item>
+        <item>Rp 694.172</item>
+        <item>Rp 498.750</item>
+        <item>Rp 584.100</item>
+        <item>Rp 391.020</item>
+        <item>Rp 1.036.450</item>
+    </array>
+    <array name="app_travel_hotel_rating">
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+    </array>
+    <array name="app_travel_price">
+        <item>Rp 370.500</item>
+        <item>Rp 378.000</item>
+        <item>Rp 453.000</item>
+        <item>Rp 486.000</item>
+        <item>Rp 493.500</item>
+        <item>Rp 539.000</item>
+        <item>Rp 562.100</item>
+        <item>Rp 598.000</item>
+        <item>Rp 652.850</item>
+        <item>Rp 658.500</item>
+    </array>
+    <array name="app_travel_time_destination">
+        <item>17:00</item>
+        <item>18:10</item>
+        <item>06:50</item>
+        <item>13:10</item>
+        <item>06:35</item>
+        <item>09:20</item>
+        <item>11:20</item>
+        <item>13:25</item>
+        <item>14:20</item>
+        <item>17:35</item>
+    </array>
+    <array name="app_travel_time_origin">
+        <item>15:50</item>
+        <item>17:00</item>
+        <item>05:40</item>
+        <item>12:00</item>
+        <item>05:20</item>
+        <item>08:00</item>
+        <item>10:05</item>
+        <item>12:10</item>
+        <item>13:00</item>
+        <item>16:20</item>
+    </array>
+    <array name="booking_date">
+        <item>7 April 2018</item>
+        <item>10 April 2018</item>
+        <item>13 April 2018</item>
+        <item>22 April 2018</item>
+        <item>8 May 2018</item>
+        <item>11 May 2018</item>
+    </array>
+    <array name="booking_destination">
+        <item>Homme Museum, Paris</item>
+        <item>Louis Vuitton Foundation</item>
+        <item>Le Palais des Congres, Paris</item>
+        <item>Place du Trocadero, Paris</item>
+        <item>The Dome of Paris</item>
+        <item>Place de la Bastille, Paris</item>
+    </array>
+    <array name="booking_payment">
+        <item>Cash</item>
+        <item>Cash</item>
+        <item>Visa</item>
+        <item>Master</item>
+        <item>Cash</item>
+        <item>Visa</item>
+    </array>
+    <array name="booking_pickup">
+        <item>The Army Museum, Paris</item>
+        <item>Le Centre Pompidou, Paris</item>
+        <item>Eiffel Tower, Paris</item>
+        <item>Pont Alexandre III, Paris</item>
+        <item>Paris Dauphine University</item>
+        <item>Jeu de Paume, Paris</item>
+    </array>
+    <array name="booking_ride_class">
+        <item>Premium</item>
+        <item>Economy</item>
+        <item>Economy</item>
+        <item>Premium</item>
+        <item>Large</item>
+        <item>Premium</item>
+    </array>
+    <array name="booking_status">
+        <item>ON GOING</item>
+        <item>FINISHED</item>
+        <item>CANCELED</item>
+        <item>FINISHED</item>
+        <item>FINISHED</item>
+        <item>FINISHED</item>
+    </array>
+    <array name="booking_time">
+        <item>7:46 PM</item>
+        <item>3:20 PM</item>
+        <item>8:11 PM</item>
+        <item>11:05 AM</item>
+        <item>7:49 AM</item>
+        <item>10:31 PM</item>
+    </array>
+    <array name="car_location">
+        <item>48.86359977#2.29030247</item>
+        <item>48.85132298#2.32132168</item>
+        <item>48.84578784#2.31806012</item>
+        <item>48.87086051#2.30432721</item>
+        <item>48.85568288#2.3079321</item>
+        <item>48.82766444#2.30673047</item>
+        <item>48.84031987#2.29093762</item>
+        <item>48.84845382#2.32750149</item>
+        <item>48.85172962#2.31514187</item>
+        <item>48.8529721#2.29007931</item>
+    </array>
+    <array name="full_date">
+        <item>Sun, 05 Dec 15, 11:30 AM</item>
+        <item>Mon, 22 Apr 13, 06:12 PM</item>
+        <item>Wed, 14 Sep 15, 09:21 PM</item>
+        <item>Fri, 11 Feb 15, 11:42 PM</item>
+        <item>Thu, 29 Aug 14, 02:30 AM</item>
+        <item>Sat, 10 Nov 15, 07:05 PM</item>
+        <item>Tue, 23 Jun 15, 09:24 AM</item>
+        <item>Wed, 20 Jul 15, 08:35 AM</item>
+        <item>Sun, 09 Mar 15, 12:49 PM</item>
+        <item>Mon, 01 Jan 16, 10:50 PM</item>
+    </array>
+    <array name="general_date">
+        <item>05 Dec 2015</item>
+        <item>22 Apr 2013</item>
+        <item>14 Sep 2015</item>
+        <item>11 Feb 2015</item>
+        <item>29 Aug 2014</item>
+        <item>10 Nov 2015</item>
+        <item>23 Jun 2015</item>
+        <item>20 Jul 2015</item>
+        <item>09 Mar 2015</item>
+        <item>01 Jan 2016</item>
+    </array>
+    <array name="help_center_menu">
+        <item>Guide to Order</item>
+        <item>Product and Services</item>
+        <item>Tips and Fare</item>
+        <item>Account and Payment</item>
+        <item>Promo and Reward</item>
+        <item>Safety and Accident</item>
+        <item>How to Sign Up</item>
+    </array>
+    <array name="letter_tile_colors">
+        <item>#f16364</item>
+        <item>#f58559</item>
+        <item>#f9a43e</item>
+        <item>#e4c62e</item>
+        <item>#67bf74</item>
+        <item>#59a2be</item>
+        <item>#2093cd</item>
+        <item>#ad62a7</item>
+    </array>
+    <array name="locations">
+        <item>The Army Museum, Paris</item>
+        <item>Le Centre Pompidou, Paris</item>
+        <item>Eiffel Tower, Paris</item>
+        <item>Pont Alexandre III, Paris</item>
+        <item>Paris Dauphine University</item>
+        <item>Jeu de Paume, Paris</item>
+        <item>Homme Museum, Paris</item>
+        <item>Louis Vuitton Foundation</item>
+        <item>Le Palais des Congres, Paris</item>
+        <item>Place du Trocadero, Paris</item>
+        <item>The Dome of Paris</item>
+        <item>Place de la Bastille, Paris</item>
+    </array>
+    <array name="mdcolor_random">
+        <item>#e91e63</item>
+        <item>#9c27b0</item>
+        <item>#673ab7</item>
+        <item>#e53935</item>
+        <item>#5677fc</item>
+        <item>#689f38</item>
+        <item>#03a9f4</item>
+        <item>#00bcd4</item>
+        <item>#009688</item>
+        <item>#259b24</item>
+        <item>#ff5722</item>
+        <item>#795548</item>
+        <item>#607d8b</item>
+        <item>#ff9800</item>
+    </array>
+    <array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+    <array name="news_category">
+        <item>Politics</item>
+        <item>Entertainment</item>
+        <item>Science</item>
+        <item>Sport</item>
+        <item>Business</item>
+        <item>Technology</item>
+    </array>
+    <array name="notification_icon">
+        <item>@drawable/app_taxi_notif_promotion</item>
+        <item>@drawable/app_taxi_notif_promotion</item>
+        <item>@drawable/app_taxi_notif_message</item>
+        <item>@drawable/app_taxi_notif_message</item>
+        <item>@drawable/app_taxi_notif_promotion</item>
+        <item>@drawable/app_taxi_notif_promotion</item>
+        <item>@drawable/app_taxi_notif_promotion</item>
+        <item>@drawable/app_taxi_notif_promotion</item>
+        <item>@drawable/app_taxi_notif_message</item>
+    </array>
+    <array name="notification_subtitle">
+        <item>Save $5 everyday this week</item>
+        <item>Unlimited $0.9 Premium Class this Friday</item>
+        <item>Earn 20% cash back the ride way, with master…</item>
+        <item>We are so committed to safety, we are waiving…</item>
+        <item>You have just unlock your promotion!</item>
+        <item>You have just unlock your promotion!</item>
+        <item>$5 off everyday this week</item>
+        <item>Success! $8 off your ride</item>
+        <item>Thank for ride with Taxi App</item>
+    </array>
+    <array name="notification_title">
+        <item>Promotion</item>
+        <item>Promotion</item>
+        <item>Message From Taxi App</item>
+        <item>Message From Taxi App</item>
+        <item>Promotion</item>
+        <item>Promotion</item>
+        <item>Promotion</item>
+        <item>Promotion</item>
+        <item>Message From Taxi App</item>
+    </array>
+    <array name="people_images">
+        <item>@drawable/photo_male_1</item>
+        <item>@drawable/photo_male_2</item>
+        <item>@drawable/photo_female_1</item>
+        <item>@drawable/photo_female_2</item>
+        <item>@drawable/photo_male_3</item>
+        <item>@drawable/photo_female_3</item>
+        <item>@drawable/photo_male_4</item>
+        <item>@drawable/photo_female_4</item>
+        <item>@drawable/photo_female_5</item>
+        <item>@drawable/photo_male_5</item>
+        <item>@drawable/photo_female_6</item>
+        <item>@drawable/photo_male_6</item>
+        <item>@drawable/photo_male_7</item>
+        <item>@drawable/photo_female_7</item>
+        <item>@drawable/photo_female_8</item>
+    </array>
+    <array name="people_names">
+        <item>Anderson Thomas</item>
+        <item>Adams Green</item>
+        <item>Laura Michelle</item>
+        <item>Betty L</item>
+        <item>Miller Wilson</item>
+        <item>Garcia Lewis</item>
+        <item>Roberts Turner</item>
+        <item>Mary Jackson</item>
+        <item>Sarah Scott</item>
+        <item>Kevin John</item>
+        <item>Elizabeth</item>
+        <item>Evans Collins</item>
+        <item>Roberts</item>
+        <item>Betty C</item>
+        <item>Susan Lee</item>
+    </array>
+    <array name="photo_illustration">
+        <item>@drawable/illustration_01</item>
+        <item>@drawable/illustration_02</item>
+        <item>@drawable/illustration_03</item>
+        <item>@drawable/illustration_04</item>
+    </array>
+    <array name="photo_illustration_health">
+        <item>@drawable/illustration_health_01</item>
+        <item>@drawable/illustration_health_02</item>
+        <item>@drawable/illustration_health_03</item>
+        <item>@drawable/illustration_health_04</item>
+    </array>
+    <array name="photo_illustration_orange">
+        <item>@drawable/illustration_orange_01</item>
+        <item>@drawable/illustration_orange_02</item>
+        <item>@drawable/illustration_orange_03</item>
+        <item>@drawable/illustration_orange_04</item>
+    </array>
+    <array name="photo_illustration_shop">
+        <item>@drawable/illustration_shop_01</item>
+        <item>@drawable/illustration_shop_02</item>
+        <item>@drawable/illustration_shop_03</item>
+        <item>@drawable/illustration_shop_04</item>
+    </array>
+    <array name="photo_info_icon">
+        <item>@drawable/ic_business</item>
+        <item>@drawable/ic_local_florist</item>
+        <item>@drawable/ic_local_cafe</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_event_seat</item>
+        <item>@drawable/ic_grass</item>
+        <item>@drawable/ic_face</item>
+        <item>@drawable/ic_fitness_center</item>
+        <item>@drawable/ic_pin_drop</item>
+        <item>@drawable/ic_restaurant</item>
+        <item>@drawable/ic_pool</item>
+        <item>@drawable/ic_airport_shuttle</item>
+        <item>@drawable/ic_directions_bike</item>
+        <item>@drawable/ic_shopping_basket</item>
+        <item>@drawable/ic_photo_camera</item>
+        <item>@drawable/ic_beach_access</item>
+    </array>
+    <array name="photo_info_name">
+        <item>Building</item>
+        <item>Nature</item>
+        <item>Nightlife</item>
+        <item>Person</item>
+        <item>Moment</item>
+        <item>Forest</item>
+        <item>Face</item>
+        <item>Workout</item>
+        <item>Landmark</item>
+        <item>Food</item>
+        <item>Holiday</item>
+        <item>Travel</item>
+        <item>Bike</item>
+        <item>Shopping</item>
+        <item>Fashion</item>
+        <item>Beach</item>
+    </array>
+    <array name="promo_code">
+        <item>PROMOECONOMY5</item>
+        <item>HOLIDAYRIDE</item>
+        <item>LARGERIDE</item>
+        <item>ENJOYPREMIUM</item>
+    </array>
+    <array name="promo_date">
+        <item>16 Jun 18 – 7 Sep 19</item>
+        <item>7 Mei 18 – 22 Aug 18</item>
+        <item>1 Jul 18 – 31 Sep 18</item>
+        <item>10 Apr 18 – 8 Jan 19</item>
+    </array>
+    <array name="promo_icon">
+        <item>@drawable/app_taxi_ic_promo_coupon</item>
+        <item>@drawable/app_taxi_ic_promo_holiday</item>
+        <item>@drawable/app_taxi_ic_promo_coupon</item>
+        <item>@drawable/app_taxi_ic_promo_ride</item>
+    </array>
+    <array name="promo_title">
+        <item>5% off Ride Economy Class</item>
+        <item>Holiday Promo $3.00 off</item>
+        <item>6% off Ride Large Class</item>
+        <item>10% off Ride Premium Class</item>
+    </array>
+    <array name="ride_duration">
+        <item>12</item>
+        <item>14</item>
+        <item>10</item>
+    </array>
+    <array name="ride_image">
+        <item>@drawable/app_taxi_ride_economy</item>
+        <item>@drawable/app_taxi_ride_large</item>
+        <item>@drawable/app_taxi_ride_premium</item>
+    </array>
+    <array name="ride_name">
+        <item>Economy</item>
+        <item>Large</item>
+        <item>Premium</item>
+    </array>
+    <array name="ride_pax">
+        <item>1–4</item>
+        <item>1–6</item>
+        <item>1–3</item>
+    </array>
+    <array name="ride_price">
+        <item>$6.75</item>
+        <item>$10.4</item>
+        <item>$13.99</item>
+    </array>
+    <array name="sample_images">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+        <item>@drawable/image_10</item>
+        <item>@drawable/image_11</item>
+        <item>@drawable/image_12</item>
+        <item>@drawable/image_13</item>
+        <item>@drawable/image_14</item>
+        <item>@drawable/image_15</item>
+    </array>
+    <array name="sample_images_name">
+        <item>Night Street</item>
+        <item>Architect Desk</item>
+        <item>City Building</item>
+        <item>Computer Keyboard</item>
+        <item>Grunge Window</item>
+        <item>Park Bench</item>
+        <item>Table Cocktails</item>
+        <item>Side Park</item>
+        <item>Hanging Clothes</item>
+        <item>Coffee Camera</item>
+        <item>Morning Flower</item>
+        <item>Foggy Hill</item>
+        <item>The Backpacker</item>
+        <item>River Forest</item>
+        <item>Mist Mountain</item>
+    </array>
+    <array name="shop_category_bg">
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_19</item>
+        <item>@drawable/image_20</item>
+        <item>@drawable/image_21</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_22</item>
+        <item>@drawable/image_23</item>
+        <item>@drawable/image_24</item>
+    </array>
+    <array name="shop_category_brief">
+        <item>100k Items</item>
+        <item>655k Items</item>
+        <item>221k Items</item>
+        <item>85k Items</item>
+        <item>725k Items</item>
+        <item>932k Items</item>
+        <item>475k Items</item>
+        <item>362k Items</item>
+    </array>
+    <array name="shop_category_icon">
+        <item>@drawable/ic_devices</item>
+        <item>@drawable/ic_accessibility</item>
+        <item>@drawable/ic_face</item>
+        <item>@drawable/ic_child_friendly</item>
+        <item>@drawable/ic_weekend</item>
+        <item>@drawable/ic_pool</item>
+        <item>@drawable/ic_confirmation_number</item>
+        <item>@drawable/ic_restaurant</item>
+    </array>
+    <array name="shop_category_title">
+        <item>Gadgets and Computers</item>
+        <item>Fashion</item>
+        <item>Beauty and Health</item>
+        <item>Babies and Kids</item>
+        <item>Home and Garden</item>
+        <item>Sports and Hobby</item>
+        <item>Ticket and Voucher</item>
+        <item>Service and Food</item>
+    </array>
+    <array name="shop_product_image">
+        <item>@drawable/image_shop_1</item>
+        <item>@drawable/image_shop_2</item>
+        <item>@drawable/image_shop_3</item>
+        <item>@drawable/image_shop_4</item>
+        <item>@drawable/image_shop_5</item>
+        <item>@drawable/image_shop_6</item>
+        <item>@drawable/image_shop_7</item>
+        <item>@drawable/image_shop_8</item>
+    </array>
+    <array name="shop_product_price">
+        <item>$ 48.90</item>
+        <item>$ 89.00</item>
+        <item>$ 66.80</item>
+        <item>$ 34.50</item>
+        <item>$ 44.90</item>
+        <item>$ 59.00</item>
+        <item>$ 78.20</item>
+        <item>$ 96.00</item>
+    </array>
+    <array name="shop_product_title">
+        <item>Fashion B07 Keara 933</item>
+        <item>Coup Hoodie Jacket</item>
+        <item>Gala Suede Jacket Flower</item>
+        <item>Qonnoq Checked Blouse</item>
+        <item>Java Seven Belladji 674</item>
+        <item>Kanvas Sneaker Shoes</item>
+        <item>Clarks Idamarie Faye Lea</item>
+        <item>Piero Rush Women</item>
+    </array>
+    <array name="social_images">
+        <item>@drawable/img_social_android</item>
+        <item>@drawable/img_social_apple</item>
+        <item>@drawable/img_social_behance</item>
+        <item>@drawable/img_social_blogger</item>
+        <item>@drawable/img_social_deviantart</item>
+        <item>@drawable/img_social_dribbble</item>
+        <item>@drawable/img_social_envato</item>
+        <item>@drawable/img_social_evernote</item>
+        <item>@drawable/img_social_facebook</item>
+        <item>@drawable/img_social_flickr</item>
+        <item>@drawable/img_social_instagram</item>
+        <item>@drawable/img_social_linkedin</item>
+        <item>@drawable/img_social_pinterest</item>
+        <item>@drawable/img_social_skype</item>
+        <item>@drawable/img_social_soundcould</item>
+        <item>@drawable/img_social_tumblr</item>
+        <item>@drawable/img_social_twitter</item>
+        <item>@drawable/img_social_vimeo</item>
+        <item>@drawable/img_social_youtube</item>
+    </array>
+    <array name="social_names">
+        <item>Android</item>
+        <item>Apple</item>
+        <item>Behance</item>
+        <item>Blogger</item>
+        <item>Deviantart</item>
+        <item>Dribbble</item>
+        <item>Envato</item>
+        <item>Evernote</item>
+        <item>Facebook</item>
+        <item>Flickr</item>
+        <item>Instagram</item>
+        <item>Linkedin</item>
+        <item>Pinterest</item>
+        <item>Skype</item>
+        <item>Soundcould</item>
+        <item>Tumblr</item>
+        <item>Twitter</item>
+        <item>Vimeo</item>
+        <item>Youtube</item>
+    </array>
+    <array name="song_name">
+        <item>All The Arguments</item>
+        <item>Proud of You</item>
+        <item>Morning Reasons</item>
+        <item>Drowsy Smart Mouth</item>
+        <item>Being Anything Else</item>
+        <item>Fist Full Of Mysteries</item>
+        <item>5 Dollar Town</item>
+        <item>Eternal Soul</item>
+        <item>Living is Going Down</item>
+        <item>Deadly Joy</item>
+        <item>Screaming Skill</item>
+        <item>Escape Of The Justice</item>
+        <item>Silent Fight</item>
+        <item>Distractions Have No Answers</item>
+        <item>Lead Sm</item>
+    </array>
+    <array name="states">
+        <item>State</item>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>NE</item>
+        <item>NE</item>
+        <item>NY</item>
+        <item>OH</item>
+        <item>TX</item>
+        <item>VA</item>
+        <item>WA</item>
+    </array>
+    <array name="strings_medium">
+        <item>Proin commodo porttitor felis. Integer auctor nulla faucibus tempus. In at viverra tellus.</item>
+        <item>Cras at lobortis velit. In eu turpis euismod dolor feugiat placerat gravida a ante. Duis consequat massa.</item>
+        <item>Praesent eleifend ipsum sapien, vel molestie nibh blandit et. Duis accumsan dignissim velit.</item>
+        <item>Aliquam in risus nibh. Pellentesque lacinia nisi ac est porta, nec eros luctus. Phasellus dictum ornare.</item>
+        <item>In rutrum turpis felis. Ut sodales libero non nibh convallis, ac vehicula tellus laoreet.</item>
+        <item>Etiam faucibus ante tortor, nec eros lacinia ut. Proin facilisis cursus enim, at congue lorem iaculis ut.</item>
+        <item>Duis sodales ligula non scelerisque molestie. In hac habitasse platea dictumst. Donec tempor nibh.</item>
+        <item>Quisque ac ante et purus auctor iaculis at sed erat. Duis vestibulum elit et mollis.</item>
+        <item>Maecenas quis posuere leo. Duis ut tortor vitae nisi commodo dictum. Quisque ac ante et purus auctor.</item>
+        <item>Proin commodo porttitor felis. Integer auctor nulla tincidunt faucibus tempus. In at viverra tellus.</item>
+    </array>
+    <array name="strings_short">
+        <item>Proin Eleifend Libero</item>
+        <item>Placerat nec elit</item>
+        <item>Fringilla ornare finibus</item>
+        <item>Convallis nec mollis</item>
+        <item>Vestibulum turpis nec</item>
+        <item>Sed malesuada volutpat</item>
+        <item>Leo ut semper vulputate</item>
+        <item>Maecenas a lorem in</item>
+        <item>Tincidunt est eros</item>
+        <item>Amet est sollicitudin</item>
+    </array>
+    <array name="strings_wizard_content">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor risus, aliquet a erat quis duis accumsan dignissim.</item>
+        <item>Pellentesque lacinia ut urna ut gravida. Proin libero sem, auctor in posuere sit amet, porta a nibh. Vivamus maximus nunc.</item>
+        <item>Maecenas finibus nulla purus, ac consectetur erat finibus vitae. Ut eget convallis dolor. Mauris a leo nunc.</item>
+        <item>Nam in venenatis risus. In facilisis tristique mollis. Curabitur tempus ipsum eget ipsum pharetra ornare.</item>
+    </array>
+    <array name="strings_wizard_title">
+        <item>Fusce dictum tristique\10elit nec iaculis</item>
+        <item>Vivamus laoreet aliquam\10ipsum eget pretium</item>
+        <item>Proin libero sem, auctor\10in posuere sit</item>
+        <item>Curabitur accumsan tellus ac\10iaculis fermentum</item>
+    </array>
+    <array name="timezone">
+        <item>Pacific Standard Time</item>
+        <item>ASEAN Common Time</item>
+        <item>Atlantic Standard Time</item>
+        <item>China Standard Time</item>
+        <item>Eastern Standard Time</item>
+        <item>Greenwich Mean Time</item>
+        <item>Iran Standard Time</item>
+        <item>Middle European Time</item>
+        <item>Malaysia Time</item>
+        <item>Western European Time</item>
+    </array>
+</resources>
